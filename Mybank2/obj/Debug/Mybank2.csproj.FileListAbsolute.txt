@@ -1,0 +1,14 @@
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\bin\Debug\Mybank2.exe.config
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\bin\Debug\Mybank2.exe
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\bin\Debug\Mybank2.pdb
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\obj\Debug\Mybank2.Properties.Resources.resources
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\obj\Debug\Mybank2.csproj.GenerateResource.cache
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\obj\Debug\Mybank2.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\obj\Debug\Mybank2.exe
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\obj\Debug\Mybank2.pdb
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\obj\Debug\Mybank2.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\obj\Debug\Mybank2.Form1.resources
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\obj\Debug\Mybank2.csproj.CopyComplete
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\obj\Debug\Mybank2.Cadastro_funcionario.resources
+C:\Users\Guilherme\source\repos\Mybank2\Mybank2\obj\Debug\Mybank2.Cadastra_cliente.resources
